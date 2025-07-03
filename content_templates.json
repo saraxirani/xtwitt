@@ -1,0 +1,38 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "name": "Project Introduction",
+      "content": "GiveRep project on Sui network has launched and is distributing airdrops! Join the community and earn rewards by participating.",
+      "tags": [
+        "Introduction",
+        "Airdrop",
+        "Sui"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "How to Participate",
+      "content": "To participate in the GiveRep project and receive rewards, simply register on the official website and complete the verification process.",
+      "tags": [
+        "Tutorial",
+        "Participation",
+        "Rewards"
+      ]
+    }
+  ],
+  "customTags": {
+    "primary": [
+      "GiveRep",
+      "Airdrop",
+      "Sui",
+      "Crypto"
+    ],
+    "secondary": [
+      "Rewards",
+      "Community",
+      "Token",
+      "Blockchain"
+    ]
+  }
+}
